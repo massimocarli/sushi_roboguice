@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ContextProviderTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_context_provider">ContextProviderActivity</string>
+    
+    <string name="no_injection_version_label">NO Injection example</string>
+    <string name="injection_version_label">Injection example</string>
+    
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="roboguice_modules">
+        <!-- Simple Module definition for Provider Injection example -->
+        <!-- item>it.apogeo.sushi.roboguice.providertest.module.ProviderModule</item> -->
+        
+		<!-- Module implementation for using Provider as way to select Android version impl -->
+        <item>it.apogeo.sushi.roboguice.providertest.module.VersionedProviderModule</item>        
+    </string-array>
+
+</resources>

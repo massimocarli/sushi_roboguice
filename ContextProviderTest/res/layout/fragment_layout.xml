@@ -1,0 +1,6 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list_fragment"
+    android:name="it.apogeo.sushi.roboguice.contextprovidertest.fragment.InjectedTestListFragment" >
+
+</fragment>

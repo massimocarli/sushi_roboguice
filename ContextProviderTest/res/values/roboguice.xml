@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="roboguice_modules">
+		<!-- Module implementation for using Provider as way to select Android version impl -->
+        <item>it.apogeo.sushi.roboguice.contextprovidertest.module.SimpleModule</item>        
+    </string-array>
+
+</resources>

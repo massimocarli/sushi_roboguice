@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">StyleExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="button_label1">Button 1</string>
+    <string name="button_label2">Button 2</string>
+    <string name="button_label3">Button 3</string>
+    <string name="text_label">Test into TextView</string>
+
+</resources>

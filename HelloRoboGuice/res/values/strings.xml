@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">HelloRoboGuice</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="starting_output_value">0</string>
+    <string name="key_0">0</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">4</string>
+    <string name="key_5">5</string>
+    <string name="key_6">6</string>
+    <string name="key_7">7</string>
+    <string name="key_8">8</string>
+    <string name="key_9">9</string>
+    <string name="key_plus">+</string>
+    <string name="key_minus">-</string>
+    <string name="key_canc">C</string>
+    <string name="key_result">=</string>
+    
+    
+    <string name="go_to_awful_version_label">Awful version</string>
+    <string name="go_to_service_version_label">Service version</string>
+    <string name="go_to_mapper_version_label">Mapper version</string>
+    <string name="go_to_layout_injection_version_label">Layout Injection version</string>
+    <string name="go_to_optimized_version_label">First Optimized version</string>
+    <string name="go_to_mapped_version_label">Mapped Optimized version</string>
+    <string name="go_to_service_injection_version_label">Service Injection version</string>
+    
+    
+    <string name="output_format">%.02f</string>
+    
+    
+    
+
+</resources>

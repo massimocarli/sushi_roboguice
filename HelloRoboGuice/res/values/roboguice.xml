@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="roboguice_modules">
+        <!-- Simple Module definition for Injection example-->
+        <item>it.apogeo.sushi.helloroboguice.modules.CalculatorModule</item>
+        <!-- Module definition for Constructor Injection example -->
+        <!-- item>it.apogeo.sushi.helloroboguice.modules.ExtCalculatorModule</item> -->
+    </string-array>
+
+</resources>
